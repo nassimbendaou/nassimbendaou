@@ -1,4 +1,9 @@
-![Header](https://github.com/nassimbendaou/nassimbendaou/blob/master/ezgif-7-751bc976cd68.gif)
+<h3 align="center"><img src=https://github.com/nassimbendaou/nassimbendaou/blob/master/ezgif-7-751bc976cd68.gif/></h3>
+<h1 align="center">Hi 👋, I'm NASSIM</h1>
+
+<h3 align="center">A Full Stack Developer/Student</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nassimbendaou" alt="nassimbendaou" /> </p>
+
 
 ![Software engineering studentt](https://img.shields.io/badge/-webtipstricks-000000?style=for-the-badge&logo=react&logoColor=white)
 
@@ -24,9 +29,13 @@
 ![REDUX](https://img.shields.io/badge/-REDUX-000000?style=flat&logo=REDUX&logoColor=8000FF)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql&logoColor=e84393)
 
-**Web/Full Stack projects**
+** projects**
 
 
 
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=nassimbendaou&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
+<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=nassimbendaou&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&theme=dracula" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=nassimbendaou&hide_title=true&layout=compact&theme=dracula" />
+
+<h4>WAKATIME STATS</h4>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=khelthos&layuout=compact&theme=synthwave&v=2" alt="khelthos" /></p>
+
 
