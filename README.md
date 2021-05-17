@@ -11,7 +11,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-000000?style=flat&logo=React&logoColor=61DAFB)
-![java]https://img.shields.io/badge/-JAVA-000000?style=flat&logo=JAVA&logoColor=FDFDFD)
+![java](https://img.shields.io/badge/-JAVA-000000?style=flat&logo=JAVA&logoColor=FDFDFD)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
 ![LARAVEL](https://img.shields.io/badge/-LARAVEL-000000?style=flat&logo=LARAVEL&logoColor=ff9f43)
 
