@@ -6,8 +6,7 @@
 
 
 ![Software engineering studentt](https://img.shields.io/badge/-webtipstricks-000000?style=for-the-badge&logo=react&logoColor=white)
-
-#### What I know
+<h1 align="center">What I Know</h1>
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![C](https://img.shields.io/badge/-C%20language-000000?style=flat&logo=C&logoColor=FDFDFD)
@@ -41,8 +40,7 @@
 ![REDUX](https://img.shields.io/badge/-REDUX-000000?style=flat&logo=REDUX&logoColor=8000FF)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql&logoColor=e84393)
 
-** projects **
-
+<h1 align="center">Projects</h1>
 
 
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=nassimbendaou&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&theme=dracula" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=nassimbendaou&hide_title=true&layout=compact&theme=dracula" />
