@@ -1,4 +1,4 @@
-<h3 align="center"><img src=https://github.com/nassimbendaou/nassimbendaou/blob/master/ezgif-7-751bc976cd68.gif/></h3>
+
 <h1 align="center">Hi 👋, I'm NASSIM</h1>
 
 <h3 align="center">A Full Stack Developer/Student</h3>
